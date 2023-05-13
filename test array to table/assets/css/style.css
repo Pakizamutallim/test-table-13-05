@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+div{
+    height: 100vh;
+    padding: 3%;
+    background-color: bisque;
+}
+
+table, td, th {
+    border: 1px solid;
+}
+  
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+
+
